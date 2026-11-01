@@ -1,0 +1,17 @@
+# Database database & log files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# Query Results & Exports
+*.csv.tmp
+*.xlsx.tmp
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
